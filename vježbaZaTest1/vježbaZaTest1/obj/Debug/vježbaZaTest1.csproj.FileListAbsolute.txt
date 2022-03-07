@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\bin\Debug\vježbaZaTest1.exe.config
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\bin\Debug\vježbaZaTest1.exe
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\bin\Debug\vježbaZaTest1.pdb
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.Form1.resources
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.exe
+C:\Users\Korisnik\source\repos\vježbaZaTest1\vježbaZaTest1\obj\Debug\vježbaZaTest1.pdb
